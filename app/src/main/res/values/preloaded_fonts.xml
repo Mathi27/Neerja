@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/archivo_black</item>
+        <item>@font/autour_one</item>
+        <item>@font/averia_gruesa_libre</item>
+        <item>@font/baloo</item>
+        <item>@font/baloo_bhai</item>
+        <item>@font/bangers</item>
+        <item>@font/boogaloo</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/capriola</item>
+        <item>@font/carter_one</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/denk_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/londrina_shadow</item>
+        <item>@font/racing_sans_one</item>
+        <item>@font/titan_one</item>
+    </array>
+</resources>
